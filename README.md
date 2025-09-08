@@ -21,6 +21,7 @@ Data Preprocessing:
 1. Initial train dataset of 5216 images is split into a training set of 4798 images and a validation set of 418 images in order to train the model.
 2. Image augmentation applied on training set: width shift, height shift,  brightness shift, rotation, zoom, pixel intensity variation using channel_shift, fill_mode, pixel value normalization using rescale.
 3. Rescale applied on both the validation and test datasets for pixel normalization.
+4. Input size is taken as 64x64 for all the images in a batch size of 32.
 
 Workflow:
 
