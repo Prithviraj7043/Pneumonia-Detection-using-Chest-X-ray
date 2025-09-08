@@ -4,7 +4,6 @@ Pneumonia Detection using Chest X-ray
 Dataset: Kaggle - Chest X-ray(Pneumonia)
 
 Dataset link: 
-
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
 Tech Stack:
