@@ -22,6 +22,11 @@ Data Preprocessing:
 2. Image augmentation applied on training set: width shift, height shift,  brightness shift, rotation, zoom, pixel intensity variation using channel_shift, fill_mode, pixel value normalization using rescale.
 3. Rescale applied on both the validation and test datasets for pixel normalization.
 
+Workflow:
+
+<img width="456" height="1532" alt="image" src="https://github.com/user-attachments/assets/6f494611-0dc8-4f76-a2af-c7377904573e" />
+
+
 Results:
 
 Test Accuracy: 92.95% 
